@@ -1,0 +1,1 @@
+version control system adalah sebuah system yang merekam perubahan pada file dari Waktu ke Waktu sehingga kita bisa melihat versi sebelumnya jika diinginkan. version control dapat mendukung beberapa jenis file.
